@@ -1,13 +1,6 @@
 import re
 import string
 
-#def printsomething():
-#    print("Hello from python!")
-
-#def PrintMe(v):
-#    print("You sent me: " + v)
-#    return 100;
-
 #Square the number sent from c++ assigned to num
 def SquareValue(num):
 
